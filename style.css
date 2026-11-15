@@ -1,0 +1,66 @@
+.saludo{
+    
+     text-align: center;
+}
+.ventana{
+    text-align: center;
+}
+body{
+    background: url(https://www.shutterstock.com/shutterstock/videos/1056736715/thumb/1.jpg?ip=x480);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    h1{
+        color: antiquewhite;
+    }
+
+}
+.contimg{
+    margin-top: 30px;
+    text-align: center;
+}
+.container{
+    overflow-y: auto;
+    
+}
+.imagen{
+    margin: 20px;
+}
+.bar{
+    background: rgb(35, 33, );
+    margin-top: 10px;
+    justify-items: end;
+    
+}
+.menu{
+      display: flex;
+      justify-items: end;
+      height: 50px;
+      
+}
+.menu-item{
+    
+     margin: 4px;
+     background: #a4a4a4;
+     list-style: none;
+
+}
+.logo{
+    margin-right:  800px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.menu_item-linck{
+    text-decoration: none;
+     margin: 4px;
+     font-size: 20px;
+     text-align: none;
+     font-size: 20px;
+     color:white;
+
+}
+label{
+    color: antiquewhite;
+}
